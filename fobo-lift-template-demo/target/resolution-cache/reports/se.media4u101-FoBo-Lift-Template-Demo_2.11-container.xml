@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="se.media4u101"
+		module="FoBo-Lift-Template-Demo_2.11"
+		revision="3.0.2-SNAPSHOT"
+		conf="container"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, container"
+		date="20150817131916"/>
+	<dependencies>
+		<module organisation="org.eclipse.jetty" name="jetty-plus">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011233000" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="10">
+				<metadata-artifact status="no" details="" size="7898" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-plus\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-plus/8.0.3.v20111011/jetty-plus-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-plus" type="jar" ext="jar" status="no" details="" size="84026" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-plus\jars\jetty-plus-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-plus/8.0.3.v20111011/jetty-plus-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-jndi">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232946" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="12">
+				<metadata-artifact status="no" details="" size="7628" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-jndi\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-jndi/8.0.3.v20111011/jetty-jndi-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-plus" conf="default, compile, runtime, master" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-jndi" type="jar" ext="jar" status="no" details="" size="38954" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-jndi\jars\jetty-jndi-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-jndi/8.0.3.v20111011/jetty-jndi-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="javax.mail" name="mail">
+			<revision name="1.4.1" status="release" pubdate="20080925013928" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://glassfish.dev.java.net/javaee5/mail/" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="13">
+				<license name="Common Development and Distribution License (CDDL) v1.0" url="https://glassfish.dev.java.net/public/CDDLv1.0.html"/>
+				<metadata-artifact status="no" details="" size="2671" time="0" location="C:\Users\Administrator\.ivy2\cache\javax.mail\mail\ivy-1.4.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-jndi" conf="compile, runtime" rev="1.4.1" rev-constraint-default="1.4.1" rev-constraint-dynamic="1.4.1" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="mail" type="jar" ext="jar" status="no" details="" size="447676" time="0" location="C:\Users\Administrator\.ivy2\cache\javax.mail\mail\jars\mail-1.4.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.geronimo.specs" name="geronimo-jta_1.1_spec">
+			<revision name="1.1.1" status="release" pubdate="20080207092654" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="11">
+				<metadata-artifact status="no" details="" size="7023" time="0" location="C:\Users\Administrator\.ivy2\cache\org.apache.geronimo.specs\geronimo-jta_1.1_spec\ivy-1.1.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-plus" conf="default, compile, runtime, master" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="geronimo-jta_1.1_spec" type="jar" ext="jar" status="no" details="" size="16030" time="0" location="C:\Users\Administrator\.ivy2\cache\org.apache.geronimo.specs\geronimo-jta_1.1_spec\jars\geronimo-jta_1.1_spec-1.1.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-webapp">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232705" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, master(*), compile(*), runtime, runtime(*), master" position="0">
+				<metadata-artifact status="no" details="" size="7711" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-webapp\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.0.3.v20111011/jetty-webapp-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-plus" conf="default, compile, runtime, master" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-webapp" type="jar" ext="jar" status="no" details="" size="105751" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-webapp\jars\jetty-webapp-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.0.3.v20111011/jetty-webapp-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-servlet">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232503" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="3">
+				<metadata-artifact status="no" details="" size="7538" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-servlet\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.0.3.v20111011/jetty-servlet-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-webapp" conf="default, compile, runtime, master" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-servlet" type="jar" ext="jar" status="no" details="" size="90340" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-servlet\jars\jetty-servlet-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.0.3.v20111011/jetty-servlet-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-security">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232445" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="4">
+				<metadata-artifact status="no" details="" size="7437" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-security\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.0.3.v20111011/jetty-security-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-servlet" conf="compile, runtime" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-security" type="jar" ext="jar" status="no" details="" size="85832" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-security\jars\jetty-security-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.0.3.v20111011/jetty-security-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-server">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232318" resolver="sbt-chain" artresolver="sbt-chain" homepage="${jetty.url}" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="5">
+				<metadata-artifact status="no" details="" size="8124" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-server\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.0.3.v20111011/jetty-server-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-security" conf="compile, runtime" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-server" type="jar" ext="jar" status="no" details="" size="327345" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-server\jars\jetty-server-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.0.3.v20111011/jetty-server-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-http">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011231956" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="8">
+				<metadata-artifact status="no" details="" size="7472" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-http\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.0.3.v20111011/jetty-http-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-server" conf="compile, runtime" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-http" type="jar" ext="jar" status="no" details="" size="119184" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-http\jars\jetty-http-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.0.3.v20111011/jetty-http-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-io">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011231939" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="9">
+				<metadata-artifact status="no" details="" size="7348" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-io\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.0.3.v20111011/jetty-io-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-http" conf="compile, runtime" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-io" type="jar" ext="jar" status="no" details="" size="95727" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-io\jars\jetty-io-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.0.3.v20111011/jetty-io-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-continuation">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232007" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="7">
+				<metadata-artifact status="no" details="" size="7427" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-continuation\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.0.3.v20111011/jetty-continuation-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-server" conf="compile, runtime" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-continuation" type="jar" ext="jar" status="no" details="" size="21249" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-continuation\jars\jetty-continuation-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.0.3.v20111011/jetty-continuation-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-xml">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232640" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="1">
+				<metadata-artifact status="no" details="" size="7361" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-xml\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.0.3.v20111011/jetty-xml-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-webapp" conf="default, compile, runtime, master" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-xml" type="jar" ext="jar" status="no" details="" size="35334" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-xml\jars\jetty-xml-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.0.3.v20111011/jetty-xml-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-util">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011231900" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="2">
+				<metadata-artifact status="no" details="" size="7688" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-util\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.0.3.v20111011/jetty-util-8.0.3.v20111011.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-xml" conf="compile, runtime" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-io" conf="compile, runtime" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="jetty-util" type="jar" ext="jar" status="no" details="" size="234501" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-util\jars\jetty-util-8.0.3.v20111011.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.0.3.v20111011/jetty-util-8.0.3.v20111011.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.mortbay.jetty" name="servlet-api">
+			<revision name="3.0.20100224" status="release" pubdate="20100224114807" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, master(*), runtime, compile(*), runtime(*), master" position="6">
+				<metadata-artifact status="no" details="" size="3092" time="0" location="C:\Users\Administrator\.ivy2\cache\org.mortbay.jetty\servlet-api\ivy-3.0.20100224.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mortbay/jetty/servlet-api/3.0.20100224/servlet-api-3.0.20100224.pom"/>
+				<caller organisation="org.eclipse.jetty" name="jetty-server" conf="compile, runtime" rev="3.0.20100224" rev-constraint-default="3.0.20100224" rev-constraint-dynamic="3.0.20100224" callerrev="8.0.3.v20111011"/>
+				<artifacts>
+					<artifact name="servlet-api" type="jar" ext="jar" status="no" details="" size="210354" time="0" location="C:\Users\Administrator\.ivy2\cache\org.mortbay.jetty\servlet-api\jars\servlet-api-3.0.20100224.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mortbay/jetty/servlet-api/3.0.20100224/servlet-api-3.0.20100224.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

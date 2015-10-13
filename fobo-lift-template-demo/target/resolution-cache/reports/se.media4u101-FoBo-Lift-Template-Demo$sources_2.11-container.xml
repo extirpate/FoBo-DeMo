@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="se.media4u101"
+		module="FoBo-Lift-Template-Demo$sources_2.11"
+		revision="3.0.2-SNAPSHOT"
+		conf="container"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool, container"
+		date="20150817132530"/>
+	<dependencies>
+		<module organisation="org.eclipse.jetty" name="jetty-plus">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011233000" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="10">
+				<metadata-artifact status="no" details="" size="7898" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-plus\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-plus/8.0.3.v20111011/jetty-plus-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-plus" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="62657" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-plus\srcs\jetty-plus-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-plus/8.0.3.v20111011/jetty-plus-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-jndi">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232946" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="12">
+				<metadata-artifact status="no" details="" size="7628" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-jndi\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-jndi/8.0.3.v20111011/jetty-jndi-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-jndi" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="26620" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-jndi\srcs\jetty-jndi-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-jndi/8.0.3.v20111011/jetty-jndi-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="javax.mail" name="mail">
+			<revision name="1.4.1" status="release" pubdate="20080925013928" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://glassfish.dev.java.net/javaee5/mail/" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="13">
+				<license name="Common Development and Distribution License (CDDL) v1.0" url="https://glassfish.dev.java.net/public/CDDLv1.0.html"/>
+				<metadata-artifact status="no" details="" size="2671" time="0" location="C:\Users\Administrator\.ivy2\cache\javax.mail\mail\ivy-1.4.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="1.4.1" rev-constraint-default="1.4.1" rev-constraint-dynamic="1.4.1" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="mail" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="613265" time="0" location="C:\Users\Administrator\.ivy2\cache\javax.mail\mail\srcs\mail-1.4.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.geronimo.specs" name="geronimo-jta_1.1_spec">
+			<revision name="1.1.1" status="release" pubdate="20080207092654" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="11">
+				<metadata-artifact status="no" details="" size="7023" time="0" location="C:\Users\Administrator\.ivy2\cache\org.apache.geronimo.specs\geronimo-jta_1.1_spec\ivy-1.1.1.xml" searched="false" origin-is-local="false" origin-location="http://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="1.1.1" rev-constraint-default="1.1.1" rev-constraint-dynamic="1.1.1" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="geronimo-jta_1.1_spec" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="21755" time="0" location="C:\Users\Administrator\.ivy2\cache\org.apache.geronimo.specs\geronimo-jta_1.1_spec\srcs\geronimo-jta_1.1_spec-1.1.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-webapp">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232705" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="0">
+				<metadata-artifact status="no" details="" size="7711" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-webapp\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.0.3.v20111011/jetty-webapp-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-webapp" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="70507" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-webapp\srcs\jetty-webapp-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.0.3.v20111011/jetty-webapp-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-servlet">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232503" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="3">
+				<metadata-artifact status="no" details="" size="7538" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-servlet\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.0.3.v20111011/jetty-servlet-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-servlet" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="51549" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-servlet\srcs\jetty-servlet-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.0.3.v20111011/jetty-servlet-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-security">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232445" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="4">
+				<metadata-artifact status="no" details="" size="7437" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-security\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.0.3.v20111011/jetty-security-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-security" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="57879" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-security\srcs\jetty-security-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.0.3.v20111011/jetty-security-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-server">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232318" resolver="sbt-chain" artresolver="sbt-chain" homepage="${jetty.url}" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="5">
+				<metadata-artifact status="no" details="" size="8124" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-server\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.0.3.v20111011/jetty-server-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-server" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="209291" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-server\srcs\jetty-server-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.0.3.v20111011/jetty-server-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-http">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011231956" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="8">
+				<metadata-artifact status="no" details="" size="7472" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-http\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.0.3.v20111011/jetty-http-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-http" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="85127" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-http\srcs\jetty-http-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.0.3.v20111011/jetty-http-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-io">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011231939" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="9">
+				<metadata-artifact status="no" details="" size="7348" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-io\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.0.3.v20111011/jetty-io-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-io" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="64579" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-io\srcs\jetty-io-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.0.3.v20111011/jetty-io-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-continuation">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232007" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="7">
+				<metadata-artifact status="no" details="" size="7427" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-continuation\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.0.3.v20111011/jetty-continuation-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-continuation" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="16276" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-continuation\srcs\jetty-continuation-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.0.3.v20111011/jetty-continuation-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-xml">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011232640" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="1">
+				<metadata-artifact status="no" details="" size="7361" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-xml\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.0.3.v20111011/jetty-xml-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-xml" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="19237" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-xml\srcs\jetty-xml-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.0.3.v20111011/jetty-xml-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jetty" name="jetty-util">
+			<revision name="8.0.3.v20111011" status="release" pubdate="20111011231900" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="2">
+				<metadata-artifact status="no" details="" size="7688" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-util\ivy-8.0.3.v20111011.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.0.3.v20111011/jetty-util-8.0.3.v20111011.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="8.0.3.v20111011" rev-constraint-default="8.0.3.v20111011" rev-constraint-dynamic="8.0.3.v20111011" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="jetty-util" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="150518" time="0" location="C:\Users\Administrator\.ivy2\cache\org.eclipse.jetty\jetty-util\srcs\jetty-util-8.0.3.v20111011-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.0.3.v20111011/jetty-util-8.0.3.v20111011-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.mortbay.jetty" name="servlet-api">
+			<revision name="3.0.20100224" status="release" pubdate="20100224114807" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default(compile), default, compile, runtime, master" position="6">
+				<metadata-artifact status="no" details="" size="3092" time="0" location="C:\Users\Administrator\.ivy2\cache\org.mortbay.jetty\servlet-api\ivy-3.0.20100224.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mortbay/jetty/servlet-api/3.0.20100224/servlet-api-3.0.20100224.pom"/>
+				<caller organisation="se.media4u101" name="FoBo-Lift-Template-Demo$sources_2.11" conf="container" rev="3.0.20100224" rev-constraint-default="3.0.20100224" rev-constraint-dynamic="3.0.20100224" callerrev="3.0.2-SNAPSHOT"/>
+				<artifacts>
+					<artifact name="servlet-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="334918" time="0" location="C:\Users\Administrator\.ivy2\cache\org.mortbay.jetty\servlet-api\srcs\servlet-api-3.0.20100224-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mortbay/jetty/servlet-api/3.0.20100224/servlet-api-3.0.20100224-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

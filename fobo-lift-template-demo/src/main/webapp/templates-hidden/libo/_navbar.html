@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+<title>Embeded Topbar template</title>
+</head>
+
+<!-- This is a embedable piece of html -->
+<body class="lift:content_id=fobo-navbar">
+
+
+	<header id="fobo-navbar"
+		class="navbar navbar-default navbar-fixed-top rt-nav"
+		role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+					data-target=".navbar-ex1-collapse">
+					<span class="sr-only">Toggle navigation</span> <span
+						class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+				<a class="brand" href="/">FoBo</a>
+			</div>
+			
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+				<span data-lift="FoBo.Bs3Navbar.builder?group=liboSpyTop"></span> 
+				<span data-lift="FoBo.Bs3Navbar.builder?group=liboDD1"></span> 
+				<span data-lift="FoBo.Bs3Navbar.builder?group=liboDD2"></span> 
+				<span data-lift="FoBo.Bs3Navbar.builderPullRight?group=liboTop2"></span>
+			</div>
+		</div>
+	</header>
+
+</body>

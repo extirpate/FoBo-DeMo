@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-angular-sandbox\src\main\resources\logback.xml,D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-angular-sandbox\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-angular-sandbox\src\main\resources\props,D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-angular-sandbox\target\scala-2.11\classes\props)[0m
+[0m[[0mdebug[0m] [0m	(D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-angular-sandbox\src\main\resources\props\default.props,D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-angular-sandbox\target\scala-2.11\classes\props\default.props)[0m

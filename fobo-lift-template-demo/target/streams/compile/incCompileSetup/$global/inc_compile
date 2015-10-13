@@ -1,0 +1,176 @@
+format version: 1
+products:
+37 items
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$1.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$10.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$11.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$2.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$3.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$4.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$5.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$6.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$7.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$8.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$9.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\localeOverride$$anonfun$$lessinit$greater$1.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\localeOverride$.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\localeOverride.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$1.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$10.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$11.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$12.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$13.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$14.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$15.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$16.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$17.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$18.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$19.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$2.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$20.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$3.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$4.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$5.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$6.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$7.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$8.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$9.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$.class
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths.class
+binary dependencies:
+7 items
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> C:\Program Files (x86)\Java\jre6\lib\rt.jar
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> C:\Users\Administrator\.ivy2\cache\net.liftmodules\fobo_3.0_2.11\jars\fobo_3.0_2.11-1.4.jar
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-common_2.11\jars\lift-common_2.11-3.0-SNAPSHOT.jar
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-util_2.11\jars\lift-util_2.11-3.0-SNAPSHOT.jar
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-webkit_2.11\jars\lift-webkit_2.11-3.0-SNAPSHOT.jar
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> C:\Users\Administrator\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+source dependencies:
+0 items
+external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+class names:
+37 items
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$1
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$10
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$11
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$2
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$3
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$4
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$5
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$6
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$7
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$8
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Boot$$anonfun$boot$9
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$1
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$10
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$11
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$12
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$13
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$14
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$15
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$16
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$17
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$18
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$19
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$2
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$20
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$3
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$4
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$5
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$6
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$7
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$8
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.Paths$$anonfun$9
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.localeOverride
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.localeOverride$
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> bootstrap.liftweb.localeOverride$$anonfun$$lessinit$greater$1
+product stamps:
+37 items
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$1.class -> lastModified(1439795584453)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$10.class -> lastModified(1439795584460)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$11.class -> lastModified(1439795584471)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$2.class -> lastModified(1439795584476)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$3.class -> lastModified(1439795584481)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$4.class -> lastModified(1439795584486)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$5.class -> lastModified(1439795584491)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$6.class -> lastModified(1439795584495)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$7.class -> lastModified(1439795584500)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$8.class -> lastModified(1439795584505)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot$$anonfun$boot$9.class -> lastModified(1439795584509)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Boot.class -> lastModified(1439795584439)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\localeOverride$$anonfun$$lessinit$greater$1.class -> lastModified(1439795584677)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\localeOverride$.class -> lastModified(1439795584673)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\localeOverride.class -> lastModified(1439795584668)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$1.class -> lastModified(1439795584567)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$10.class -> lastModified(1439795584572)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$11.class -> lastModified(1439795584577)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$12.class -> lastModified(1439795584583)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$13.class -> lastModified(1439795584587)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$14.class -> lastModified(1439795584592)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$15.class -> lastModified(1439795584598)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$16.class -> lastModified(1439795584602)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$17.class -> lastModified(1439795584607)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$18.class -> lastModified(1439795584612)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$19.class -> lastModified(1439795584616)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$2.class -> lastModified(1439795584620)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$20.class -> lastModified(1439795584625)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$3.class -> lastModified(1439795584629)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$4.class -> lastModified(1439795584633)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$5.class -> lastModified(1439795584637)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$6.class -> lastModified(1439795584644)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$7.class -> lastModified(1439795584648)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$8.class -> lastModified(1439795584653)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$$anonfun$9.class -> lastModified(1439795584658)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths$.class -> lastModified(1439795584562)
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\target\scala-2.11\classes\bootstrap\liftweb\Paths.class -> lastModified(1439795584521)
+source stamps:
+1 items
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> hash(aac746983a036e7cbc20d20a58d44537abf4a92b)
+binary stamps:
+7 items
+C:\Program Files (x86)\Java\jre6\lib\rt.jar -> lastModified(1422251252232)
+C:\Users\Administrator\.ivy2\cache\net.liftmodules\fobo_3.0_2.11\jars\fobo_3.0_2.11-1.4.jar -> lastModified(1439118220000)
+C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-common_2.11\jars\lift-common_2.11-3.0-SNAPSHOT.jar -> lastModified(1439233123000)
+C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-util_2.11\jars\lift-util_2.11-3.0-SNAPSHOT.jar -> lastModified(1439233152000)
+C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-webkit_2.11\jars\lift-webkit_2.11-3.0-SNAPSHOT.jar -> lastModified(1439233172000)
+C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar -> lastModified(1408641311000)
+C:\Users\Administrator\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+7 items
+C:\Program Files (x86)\Java\jre6\lib\rt.jar -> java.lang.Object
+C:\Users\Administrator\.ivy2\cache\net.liftmodules\fobo_3.0_2.11\jars\fobo_3.0_2.11-1.4.jar -> net.liftmodules.FoBo.package$
+C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-common_2.11\jars\lift-common_2.11-3.0-SNAPSHOT.jar -> net.liftweb.common.LazyLoggable
+C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-util_2.11\jars\lift-util_2.11-3.0-SNAPSHOT.jar -> net.liftweb.util.ValueHolder
+C:\Users\Administrator\.ivy2\cache\net.liftweb\lift-webkit_2.11\jars\lift-webkit_2.11-3.0-SNAPSHOT.jar -> net.liftweb.sitemap.ConvertableToMenu
+C:\Users\Administrator\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar -> scala.xml.Text$
+C:\Users\Administrator\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.Unit
+internal apis:
+1 items
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSIdu0j8FrMwCAAVJAAdhcGlIYXNoWgAIaGFzTWFjcm9MAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDB16+EAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AA54cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAgYm9vdHN0cmFwLmxpZnR3ZWIubG9jYWxlT3ZlcnJpZGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAoeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAnAHBzcQB+ACxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ADkwACWluaGVyaXRlZHEAfgAOTAAHcGFyZW50c3EAfgAOeHEAfgAwc3EAfgAnAHBzcQB+ACx1cQB+AAkAAAAAc3EAfgAnAHBzcQB+ACx1cQB+AAkAAAAAc3EAfgAnAHBzcQB+ACx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGV0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgAvc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAVTAAGcHJlZml4cQB+AEF4cQB+AC90AApTZXNzaW9uVmFyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgAvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AFXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANuZXRzcQB+AE90AAdsaWZ0d2Vic3EAfgBPdAAEaHR0cHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBQdXEAfgA+AAAAAXNxAH4AQHNxAH4ARHQAA0JveHNxAH4AR3NxAH4ASnVxAH4ATQAAAARzcQB+AE90AANuZXRzcQB+AE90AAdsaWZ0d2Vic3EAfgBPdAAGY29tbW9ucQB+AFh1cQB+AD4AAAABc3EAfgBEdAAGTG9jYWxlc3EAfgBHc3EAfgBKdXEAfgBNAAAAA3NxAH4AT3QABGphdmFzcQB+AE90AAR1dGlscQB+AFhzcQB+AER0AAxMYXp5TG9nZ2FibGVxAH4AXXNxAH4AQHNxAH4ARHQABkFueVZhcnNxAH4AR3NxAH4ASnVxAH4ATQAAAARzcQB+AE90AANuZXRzcQB+AE90AAdsaWZ0d2Vic3EAfgBPdAAEdXRpbHEAfgBYdXEAfgA+AAAAAnEAfgBacQB+AENzcQB+AEBzcQB+AER0AAtBbnlWYXJUcmFpdHEAfgB1dXEAfgA+AAAAAnEAfgBacQB+AENzcQB+AEBzcQB+AER0ABNIYXNDYWxjRGVmYXVsdFZhbHVlcQB+AHV1cQB+AD4AAAABcQB+AFpzcQB+AEBzcQB+AER0ABRQU2V0dGFibGVWYWx1ZUhvbGRlcnEAfgB1dXEAfgA+AAAAAXEAfgBac3EAfgBEdAATU2V0dGFibGVWYWx1ZUhvbGRlcnEAfgB1c3EAfgBEdAAIU2V0dGFibGVxAH4AdXNxAH4AQHNxAH4ARHQADFBWYWx1ZUhvbGRlcnEAfgB1dXEAfgA+AAAAAXEAfgBac3EAfgBEdAALVmFsdWVIb2xkZXJxAH4AdXNxAH4ARHQABk9iamVjdHNxAH4AR3NxAH4ASnVxAH4ATQAAAANzcQB+AE9xAH4AbXNxAH4AT3QABGxhbmdxAH4AWHNxAH4ARHQAA0FueXNxAH4AR3NxAH4ASnVxAH4ATQAAAAJzcQB+AE90AAVzY2FsYXEAfgBYc3EAfgALcQB+ABl1cQB+ABoAAAAAc3EAfgAcAHQAFmJvb3RzdHJhcC5saWZ0d2ViLkJvb3R1cQB+AB8AAAAAfnEAfgAhdAAIQ2xhc3NEZWZ1cQB+ACUAAAAAc3EAfgAnAHBzcQB+ACxxAH4AMXNxAH4AJwBwc3EAfgAsc3EAfgA0c3EAfgAnAHBzcQB+ACx1cQB+AAkAAAAAc3EAfgAnAHBzcQB+ACx1cQB+AAkAAAAAc3EAfgAnAHBzcQB+ACx1cQB+AD4AAAADc3EAfgBEdAAITG9nZ2FibGVzcQB+AEdzcQB+AEp1cQB+AE0AAAAEc3EAfgBPdAADbmV0c3EAfgBPdAAHbGlmdHdlYnNxAH4AT3QABmNvbW1vbnEAfgBYc3EAfgBEcQB+AJZzcQB+AEdzcQB+AEp1cQB+AE0AAAADc3EAfgBPcQB+AG1zcQB+AE9xAH4AnHEAfgBYc3EAfgBEcQB+AJ5zcQB+AEdzcQB+AEp1cQB+AE0AAAACc3EAfgBPcQB+AKNxAH4AWHNxAH4AC3EAfgAZdXEAfgAaAAAAAHNxAH4AHAB0ABdib290c3RyYXAubGlmdHdlYi5QYXRoc3VxAH4AHwAAAABxAH4AI3VxAH4AJQAAAABzcQB+ACcAcHNxAH4ALHEAfgAxc3EAfgAnAHBzcQB+ACxzcQB+ADRzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4APgAAAAJzcQB+AERxAH4AlnNxAH4AR3NxAH4ASnVxAH4ATQAAAANzcQB+AE9xAH4AbXNxAH4AT3EAfgCccQB+AFhzcQB+AERxAH4AnnNxAH4AR3NxAH4ASnVxAH4ATQAAAAJzcQB+AE9xAH4Ao3EAfgBYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AFXhwdAARYm9vdHN0cmFwLmxpZnR3ZWJzcQB+APF0AAlib290c3RyYXBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU86gMX3dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAVTAAPc291cmNlRGlyZWN0b3J5cQB+ABV4cHQAYUQ6XFJlcG9zaXRvcmllc1xXb3Jrc3BhY2VcTGlmdFxGb0JvLURlbW8tbWFzdGVyXGZvYm8tbGlmdC10ZW1wbGF0ZS1kZW1vXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSqx0aYOgNufLwg0gpY1EU3q/SpKw==
+external apis:
+0 items
+source infos:
+1 items
+D:\Repositories\Workspace\Lift\FoBo-Demo-master\fobo-lift-template-demo\src\main\scala\bootstrap\liftweb\Boot.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+000 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTziHT5t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy96bi9Xb3Jrc3BhY2UvTGlmdC9Gb0JvLURlbW8tbWFzdGVyL2ZvYm8tbGlmdC10ZW1wbGF0ZS1kZW1vL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+001 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTzqAxfd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYUQ6XFJlcG9zaXRvcmllc1xXb3Jrc3BhY2VcTGlmdFxGb0JvLURlbW8tbWFzdGVyXGZvYm8tbGlmdC10ZW1wbGF0ZS1kZW1vXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+compile setup:
+1 items
+1 -> 
+AABhRDpcUmVwb3NpdG9yaWVzXFdvcmtzcGFjZVxMaWZ0XEZvQm8tRGVtby1tYXN0ZXJcZm9iby1saWZ0LXRlbXBsYXRlLWRlbW9cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3NlcwAAAAIADC1kZXByZWNhdGlvbgAKLXVuY2hlY2tlZAAAAAAABjIuMTEuNgAAAAA=

@@ -1,0 +1,153 @@
+<!doctype html>
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+<title>Embeded Topbar template</title>
+</head>
+
+<!-- This is a embedable piece of html -->
+<body class="lift:content_id=fobo-promo">
+    
+	<section class="demo-promo-section" id="fobo-promo">
+	<div class="container-fluid">
+	  <div class="row">
+	    <div class="col-sm-12">
+				<div class="row-fluid">
+					<div class="col-sm-12">
+						<h2 class="capital">
+							S<span>etup and</span> U<span>sage</span> 
+						</h2>
+						<p>There are pre-built artifacts of FoBo available, see FoBo readme  
+						<a href="https://github.com/karma4u101/FoBo/tree/develop#update-log">update log section</a> 
+						for latest stable and SNAPSHOT versions. Also for more information on how to set things up there is also a 
+						<a href="https://github.com/karma4u101/FoBo/tree/develop#integration-into-your-project-">integration section</a> 
+						to show you how to integrate the module into your project.
+						</p>
+						
+						<p>To initiate the FoBo module, chose the Toolkit(s) option(s) you 
+						prefer and then call FoBo.init() from your lift projects Boot.</p> 
+						
+						<p>This demo uses the following FoBo module(s) setup in lift Boot.<br/> 
+						</p>
+						<div class="alert alert-info" style="width:80%">
+						For bootstrap only setup and demo see
+							<span
+								data-lift="Menu.item?name=LiBo;lift:Loc.i;a ">
+								<span data-lift="Loc.i">BootstrapSetupUsage</span>
+							</span>							
+						</div>
+						
+						<span class="label label-default">FoBo setup in Lift Boot</span> 
+						<pre class="prettyprint linenums lang-scala">
+                            :
+                           import net.liftmodules.FoBo
+
+                           /**
+                            * A class that's instantiated early and run.  It allows the application
+                            * to modify lift's environment
+                            **/
+                            class Boot extends Loggable {
+                              def boot {
+
+                                FoBo.InitParam.JQuery=FoBo.JQuery1111                           
+                                FoBo.InitParam.ToolKit=FoBo.PrettifyJun2011
+                                FoBo.InitParam.ToolKit=FoBo.Bootstrap335
+                                FoBo.InitParam.ToolKit=FoBo.FontAwesome430      
+                                FoBo.InitParam.ToolKit=FoBo.Pace0415  
+                                  :                            
+                                FoBo.init()
+                                  :      
+						</pre>
+						<p>In Lift's html5 template:s add (depending on your setup) something like this:</p>
+						<span class="label label-default">Lift surround template</span> 
+						<pre class="prettyprint linenums lang-html">
+                        &lt;!DOCTYPE html&gt;
+                        &lt;html&gt;
+                          &lt;head&gt;
+                             :
+                             &lt;!-- FoBo css setting--&gt;
+                             &lt;link href="/classpath/fobo/bootstrap.css" type="text/css" rel="stylesheet"&gt;
+                             &lt;link href="/classpath/fobo/bootstrap-theme.css" type="text/css" rel="stylesheet"&gt;
+                             &lt;!--app specific tweeks and overrides external to module goes here--&gt;
+                             &lt;link href="[path to your projects app css]" type="text/css" rel="stylesheet"&gt;  
+                             :                        
+                          &lt;/head&gt;
+                          &lt;!--Demo page setup for prettyprint and bootstrap scrollspy--&gt;
+                          &lt;body data-spy="scroll" data-target="#fobo-navbar" data-offset="40" onload="prettyPrint()"&gt;
+                             :
+                             &lt;!--In end of page (for fast pageload) add the scripts you need--&gt; 
+                             &lt;script src="/classpath/fobo/prettify.js" type="text/javascript"&gt;&lt;/script&gt;
+                             &lt;script src="/classpath/fobo/lang-scala.js" type="text/javascript"&gt;&lt;/script&gt;
+                             &lt;script src="/classpath/fobo/bootstrap.js" type="text/javascript"&gt;&lt;/script&gt;
+                             :
+                          &lt;/body&gt;        
+                        &lt;/html&gt;    
+						</pre>
+						<p>Note the uniform setup without any version references in the html templates or any appended 
+						-min.css/-min.js as FoBo takes care of that for you, 
+						making way for a smooth(er) toolkit upgrade. For more information see the <a href="https://github.com/karma4u101/FoBo">FoBo modules Github</a>.
+						</p>
+										
+<!-- 						<hr /> -->
+						
+					</div>
+				</div>			
+			
+				<div class="row">
+					<div class="col-sm-12">	
+
+
+			        </div>
+			   </div>
+
+			
+				<div class="row">
+					<div class="col-sm-3">
+						<iframe
+							class="github-btn" src="http://ghbtns.com/github-btn.html?user=karma4u101&type=follow&count=false&size=large"
+							allowtransparency="true" frameborder="0" scrolling="0"
+							width="220px" height="30px"></iframe>
+
+					</div>				
+					<div class="col-sm-3">
+						<iframe
+							class="github-btn" src="http://ghbtns.com/github-btn.html?user=karma4u101&repo=fobo&type=watch&count=true&size=large"
+							allowtransparency="true" frameborder="0" scrolling="0"
+							width="170px" height="30px"></iframe>
+					</div>
+					<div class="col-sm-3">
+						<a href="https://twitter.com/karma4u101"
+							class="twitter-follow-button" data-show-count="false"
+							data-size="large">Follow @karma4u101</a>
+					</div>					
+					<div class="col-sm-3">
+						<a href="https://twitter.com/share" class="twitter-share-button"
+							data-url="http://www.media4u101.se/fobo-lift-template-demo/"
+							data-text="FoBo - A Generic Lift Front-End Toolkit Module"
+							data-size="large" data-hashtags="LiftFoBo, LiftWeb">Tweet</a>
+
+					</div>
+				</div>
+
+	    </div>
+	  </div>
+	  <div class="row">
+	    <div class="col-sm-12">
+	      <section id="poweredby">
+	      <hr/>
+	      <h4  class="alt">The FoBo Demo is Powered by <a target="_blank" href="http://www.liftweb.net"><i>Lift</i></a> 
+	       using the <a target="_blank" href="https://github.com/karma4u101/FoBo"><i>FoBo Module</i></a>
+	       <br>
+	       with <a target="_blank" href="http://twitter.github.com/bootstrap/"><i>Twitter Bootstrap</i></a> and 
+	       <a target="_blank" href="http://fortawesome.github.com/Font-Awesome"><i>Font Awesome</i></a>
+	       <br>
+		   Design by <a target="_blank" href="http://www.media4u101.se">Peter Petersson</a>
+	       </h4>
+	       </section>	
+	    </div>
+	  </div>
+	</div>	
+	</section>
+
+</body>
