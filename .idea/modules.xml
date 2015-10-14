@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Angular-Lift-RoundTrips.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Angular-Lift-RoundTrips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Angular-Lift-RoundTrips-build.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Angular-Lift-RoundTrips-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Angular-Sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Angular-Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Angular-Sandbox-build.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Angular-Sandbox-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Bootstrap3-Sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Bootstrap3-Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Bootstrap3-Sandbox-build.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Bootstrap3-Sandbox-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Demo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Demo-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Lift-Template-Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Lift-Template-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoBo-Lift-Template-Demo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/FoBo-Lift-Template-Demo-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pimping-Lift-Advanced-Bs3.iml" filepath="$PROJECT_DIR$/.idea/modules/Pimping-Lift-Advanced-Bs3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pimping-Lift-Advanced-Bs3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Pimping-Lift-Advanced-Bs3-build.iml" />
+    </modules>
+  </component>
+</project>
